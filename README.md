@@ -10,9 +10,9 @@
 ## Descripcion
 
 Proyecto desarrollado en un entorno en Docker
-
+```
 Para construir el proyecto se utiliza el comando:
-
+    
 ```docker-compose build app
 
 Luego tenemos que levantar el servidor y opcional ejecutar en segundo plano con -d:
